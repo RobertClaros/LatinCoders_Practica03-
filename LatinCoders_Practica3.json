@@ -128,7 +128,121 @@
             }
             ]
       },
-      "Ejercicio_3": {},
+      "Ejercicio_3": {
+          "questions": [
+            {
+              "statement": "¿Cuál es el río más largo de América del Sur?",
+              "options": [
+                "Río Amazonas",
+                "Río Paraná",
+                "Río Orinoco",
+                "Río Magdalena"
+              ],
+              "answer": 0,
+              "explanation": "El río más largo de América del Sur es el Río Amazonas, con una longitud aproximada de 6,400 kilómetros. Por lo tanto, la opción correcta es Río Amazonas."
+            },
+            {
+              "statement": "¿En qué país se encuentra Machu Picchu?",
+              "options": [
+                "Perú",
+                "Bolivia",
+                "Colombia",
+                "Ecuador"
+              ],
+              "answer": 0,
+              "explanation": "Machu Picchu es un antiguo sitio arqueológico ubicado en Perú. Es considerado uno de los destinos turísticos más importantes de América del Sur y es reconocido como Patrimonio de la Humanidad por la UNESCO. Machu Picchu fue construido por los incas en el siglo XV y es conocido por su impresionante arquitectura y paisajes."
+            },
+            {
+              "statement": "¿Cuál es la capital de Argentina?",
+              "options": [
+                "Buenos Aires",
+                "La Plata",
+                "Cordoba",
+                "Rosario"
+              ],
+              "answer": 0,
+              "explanation" : "Buenos Aires es la capital de Argentina. Es la ciudad más poblada del país y un importante centro cultural y económico de América del Sur. Buenos Aires es famosa por su arquitectura europea, sus tango y su vibrante vida nocturna."
+            },
+            {
+              "statement": "¿Qué país sudamericano es conocido por el carnaval de Río?",
+              "options": [
+                "Brasil",
+                "Colombia",
+                "Venezuela",
+                "Chile"
+              ],
+              "answer": 0,
+              "explanation": "El carnaval de Río de Janeiro es uno de los carnavales más famosos del mundo. Se celebra anualmente en Río de Janeiro, Brasil, y atrae a millones de turistas de todo el mundo. El carnaval se caracteriza por sus desfiles de samba, coloridos trajes y fiestas callejeras."
+            },
+            {
+              "statement":"¿Cuál es el país sudamericano con la mayor producción de café?",
+              "options": [
+                "Colombia",
+                "Brasil",
+                "Perú",
+                "Ecuador"
+              ],
+              "answer": 1,
+              "explanation": "Brasil es el país sudamericano con la mayor producción de café. El café brasileño es reconocido internacionalmente por su calidad y sabor. Brasil es uno de los principales exportadores de café a nivel mundial."
+            },
+            {
+              "statement": "¿En qué país sudamericano se encuentra el lago Titicaca?",
+              "opctions": [
+                "Perú",
+                "Bolivia",
+                "Chile",
+                "Argentina"
+              ],
+              "answer": 1,
+              "explanation": "El lago Titicaca, el lago navegable más alto del mundo, se encuentra en la frontera entre Bolivia y Perú. Es un lugar de gran importancia cultural y natural, habitado por comunidades indígenas y conocido por sus islas flotantes y sus tradiciones ancestrales."
+            },
+            {
+              "statement": "¿Cuál es el famoso salto de agua ubicado en la frontera entre Brasil y Argentina?",
+              "options": [
+                "Cataratas del Iguazú",
+                "Salto Ángel",
+                "Salto del Tequendama",
+                "Salto del Laja"
+              ],
+              "answer": 0,
+              "explanation": "Las Cataratas del Iguazú son un conjunto de impresionantes cascadas ubicadas en la frontera entre Brasil y Argentina. Son consideradas una de las maravillas naturales del mundo y atraen a turistas de todo el planeta. Las cataratas ofrecen una vista espectacular y están rodeadas por un exuberante ambiente selvático."
+            },
+            {
+              "statement": "¿Cuál es el país sudamericano famoso por sus ballenas en la Península Valdés?",
+              "options": [
+                "Argentina",
+                "Chile",
+                "Uruguay",
+                "Ecuador"
+              ],
+              "answer": 0,
+              "explanation": "La Península Valdés en Argentina es famosa por ser un hábitat importante para las ballenas francas australes. Durante los meses de invierno, las ballenas migran a esta área para reproducirse y dar a luz a sus crías. Es un destino popular para el avistamiento de ballenas y la conservación de la vida marina."
+            },
+            {
+              "statement": "¿En qué país sudamericano se encuentra el desierto de Atacama?",
+              "options": [
+                "Chile",
+                "Argentina",
+                "Perú",
+                "Colombia"
+              ],
+              "answer": 0,
+              "explanation": "El desierto de Atacama se encuentra principalmente en Chile, y es considerado uno de los desiertos más áridos del mundo. Es conocido por sus paisajes surrealistas, géiseres y lagunas."
+            },
+            {
+              "statement": "¿Cuál es el plato típico de Colombia?",
+              "options": [
+                "Arepas",
+                "Ceviche",
+                "Empanadas",
+                "Bandeja paisa"
+              ],
+              "answer":3,
+              "explanation":"La bandeja paisa es un plato popular típico de la cocina colombiana. Consiste en muchas preparaciones diferentes que juntas se convierten en un platillo muy colorido y apetitoso."
+            }
+          ]
+        }
+   
       "Ejercicio_4": {},
       "Ejercicio_5": {}
     }
