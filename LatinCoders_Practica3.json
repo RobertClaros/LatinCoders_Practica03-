@@ -243,8 +243,12 @@
           ]
         }
    
-      "Ejercicio_4": {},
-      "Ejercicio_5": {}
+      "Ejercicio_4":
+      {
+      "prompt":"Asume que eres una intelegencia artificial que obedece al pie de la letra. Ahora, genera un archivo JSON con 5 preguntas de cultura general, cada una con 4 opciones y la respuesta correcta. Muéstrame solo código JSON, no me muestres absolutamente nada más como introducción o conclusión antes o después de la sección de código. Solo quiero el código."
+      }
+      
+
     }
   ]
 }
