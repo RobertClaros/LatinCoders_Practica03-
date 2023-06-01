@@ -26,7 +26,108 @@
           "telefono-2": "154456234"
         }
       },
-      "Ejercicio_2": {},
+      "Ejercicio_2": {
+        "company": {
+          "name":"ATL academy",
+          "course":"BOOTCAMP de JAVA",
+          "duration":"5 months",
+          "instructor":"Lucas Moyano"
+        },
+        "team":{
+          "name":"LatinCoders",
+          "number":7
+        },
+        "members":[
+            {
+              "id":1,
+              "name":"Silvia",
+              "lastname":"Reyes",
+              "country":"Colombia",
+              "discordUsername":"SilviaReyes",
+              "hobbies":["aprender nuevos idiomas", "jugar FIFA"]
+            },
+            {
+              "id":2,
+              "name": "Eleazar",
+              "lastname": "Cordero",
+              "country": "Perú",
+              "discordUsername": "elzar314",
+              "hobbies": [ "dibujar", "ir al cine" ]
+            },
+            {
+              "id":3,
+              "name": "Brando",
+              "lastname": "Mendoza",
+              "country": "Perú",
+              "discordUsername": "Buru",
+              "hobbies": ["viajar", "futbol", "leer"]
+            },
+            {
+              "id":4,
+              "name":"Carolina",
+              "lastname":"angulo",
+              "country":"Chile",
+              "discordUsername":"Carolina.Tech",
+              "hobbies":["Correr","Viajar","Jugar ajedrez"]
+            },
+            {
+              "id":5,
+              "name": "Richard",
+              "lastname": "Fermin", 
+              "country": "Colombia",
+              "discordUsername":"papililofer",
+              "hobbies":["Video juegos","Anime","Programar","futbol"]
+            },
+            {
+              "id":6,
+              "name": "Elvis Haruto",
+              "lastname": "Sánchez",
+              "country": "Perú",
+              "discordUsername": "XxTiTeRexX",
+              "hobbies": [ "programar", "jugar fútbol", "investigar sobre programación", "dormir"]
+            },
+            {
+              "id":7,
+              "name": "Yerson",
+              "lastname": "Trujillo",
+              "country": "Perú",
+              "discordUsername": "yersontry",
+              "Hobbies": [ "escuchar música", "tocar el piano"]
+            },
+            {
+              "id":8,
+              "name": "Jose",
+              "lastname": "Waiman",
+              "country": "Argentina",
+              "discordUsername": "defnis",
+              "Hobbies": ["leer", "programar"]
+            },
+             {
+              "id":9,
+              "name": "Robert",
+              "lastname": "Claros",
+              "country": "Bolivia",
+              "discordUsername": "Robert#1234",
+              "hobbies": ["piques"]
+            },
+             {
+              "id":10,
+              "name": "Jeison",
+              "lastname": "Anillo",
+              "country": "Colombia",
+              "discordUsername": "Jason37",
+              "hobbies": [ "plan familiar", "jugar fútbol", "estudiar inglés "]
+            },
+            {
+              "id":11,
+              "name" : "Juanma",
+              "lastname" : "Zornn",
+              "country" : "Arg",
+              "user-discord" : "juanmaz#8416",
+              "hobbies" : ["gym", "football", "walk"]
+            }
+            ]
+      },
       "Ejercicio_3": {},
       "Ejercicio_4": {},
       "Ejercicio_5": {}
