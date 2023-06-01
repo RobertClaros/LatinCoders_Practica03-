@@ -1,27 +1,36 @@
 {
-  "academia" : "Next Lang",
-  "direccion" : "principal 123, Villa Carlos Paz",
-  "cursos" : [
-     {
-     "curso" : "Inglés básico",
-     "duración" : "4 semanas",
-     "precio" : "100 dólares"
-     },
-     {
-      "curso" : "Inglés Avanzado",
-      "duración" : "20 semanas",
-      "precio" : "400 dólares"
-     },
-     {
-      "curso" : "Italiano básico",
-      "duración" : "5 semanas",
-      "precio" : "120 dólares"
-     }
-    ],
-    "telefono" :
-      {
-      "telefono-1" : "156734756",
-      "telefono-2" : "154456234"
-      }
-      
+  "practica_3": [
+    {
+      "Ejercicio_1": {
+        "academia": "Next Lang",
+        "direccion": "principal 123, Villa Carlos Paz",
+        "cursos": [
+          {
+            "curso": "Inglés básico",
+            "duración": "4 semanas",
+            "precio": "100 dólares"
+          },
+          {
+            "curso": "Inglés Avanzado",
+            "duración": "20 semanas",
+            "precio": "400 dólares"
+          },
+          {
+            "curso": "Italiano básico",
+            "duración": "5 semanas",
+            "precio": "120 dólares"
+          }
+        ],
+        "telefono": {
+          "telefono-1": "156734756",
+          "telefono-2": "154456234"
+        }
+      },
+      "Ejercicio_2": {},
+      "Ejercicio_3": {},
+      "Ejercicio_4": {},
+      "Ejercicio_5": {}
+    }
+  ]
 }
+
